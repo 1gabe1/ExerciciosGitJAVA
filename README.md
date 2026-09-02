@@ -50,7 +50,7 @@ Exercicios-Java/
 
 * Java
 * JDK
-* Eclipse / IntelliJ IDEA
+* Eclipse
 
 ## 📈 Progresso
 
